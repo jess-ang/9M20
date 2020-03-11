@@ -1,5 +1,4 @@
-/*
-Un punto en el plano se puede representar mediante una estructura con dos campos. Escribir un programa que
+/*Un punto en el plano se puede representar mediante una estructura con dos campos. Escribir un programa que
 realice las siguientes operaciones con puntos en el plano.
     -Dados dos puntos calcular la distancia entre ellos.
     -Dados dos puntos determinar el punto medio de la línea que los une.
